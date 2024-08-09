@@ -16,6 +16,9 @@ public class DSAassignment {
     public static void main(String[] args) {
         
         System.out.println("Hi Iam Tan");
+        System.out.println("Testing1");
+        System.out.println("tingting");
+        System.out.println("Upload");
         
         // TODO code application logic here
     }
